@@ -151,73 +151,179 @@
 
 ---
 
-## 🚀 By The Numbers
+## 🚀 By The Numbers (KPI Metrics Dashboard)
 
-<div align="center">
-
-| Metric | Output / Track Record |
-| :--- | :--- |
-| 🌐 **Websites & Web Apps Built** | **30+** Production Projects |
-| 🤖 **AI Systems & Integrations** | **20+** Deployed Architectures |
-| 💼 **Client & Freelance Solutions** | **12+** Successfully Delivered |
-| 🧩 **Published Chrome Extensions** | **2** Extensions (Voca AI & WhisperType) |
-| 📦 **Public Repositories** | **29+** Open Source Projects |
-| 💻 **GitHub Contributions** | **200+** Commits Across Products |
-| 🧠 **Data Structures & Algorithms** | **100+** LeetCode Problems Solved |
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/PRODUCTION-00F5D4?style=flat-square&logoColor=black" alt="Production"/>
+      <br/><br/>
+      <h2>🌐 30+</h2>
+      <b>Websites & Apps Built</b>
+      <br/>
+      <sub>Production & Client Deployments</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/INTELLIGENCE-7928CA?style=flat-square&logoColor=white" alt="AI"/>
+      <br/><br/>
+      <h2>🤖 20+</h2>
+      <b>AI Systems & Apps</b>
+      <br/>
+      <sub>LLMs, Vision & Local Speech</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/CLIENT%20WORK-FF0080?style=flat-square&logoColor=white" alt="Freelance"/>
+      <br/><br/>
+      <h2>💼 12+</h2>
+      <b>Freelance Solutions</b>
+      <br/>
+      <sub>End-to-End Client Implementations</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/EXTENSIONS-0070F3?style=flat-square&logoColor=white" alt="Extensions"/>
+      <br/><br/>
+      <h2>🧩 2</h2>
+      <b>Chrome Extensions</b>
+      <br/>
+      <sub>Voca AI & WhisperType V3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/OPEN%20SOURCE-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Open Source"/>
+      <br/><br/>
+      <h2>📦 29+</h2>
+      <b>Public Repositories</b>
+      <br/>
+      <sub>Active Codebases & Packages</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/CONTRIBUTIONS-FF8C00?style=flat-square&logo=git&logoColor=white" alt="Commits"/>
+      <br/><br/>
+      <h2>💻 200+</h2>
+      <b>GitHub Commits</b>
+      <br/>
+      <sub>Continuous Shipping Velocity</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/ALGORITHMS-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+      <br/><br/>
+      <h2>🧠 100+</h2>
+      <b>LeetCode Solved</b>
+      <br/>
+      <sub>DSA & Algorithmic Problem Solving</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/EFFICIENCY-00DF72?style=flat-square&logoColor=black" alt="Efficiency"/>
+      <br/><br/>
+      <h2>⚡ 0%</h2>
+      <b>Server Bandwidth Tax</b>
+      <br/>
+      <sub>100% Direct Client-Side Streams</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Key Milestones & Accolades
 
-- 🥇 **Grand Finalist** — *Google AdMob Hackathon @ IIT Bombay*
-- 🚀 **Founder & Lead Architect** — *Safeoid (AI Document Intelligence)*
-- 🧠 **Creator** — *WhisperType (Zero-Cost Local AI Voice-to-Text)*
-- ✍️ **Founder** — *Voca AI (Browser Productivity & Writing Suite)*
-- 🎬 **Founder** — *Captr (Creator Clipping & Syndication Engine)*
-- ⚡ **Creator** — *ReelSnap (Zero-Bandwidth 1080p Instagram & FB Media Suite)*
-- 💻 **30+ Production Websites** designed and deployed end-to-end
-- 🧩 **100+ LeetCode algorithmic challenges** solved
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/HONOR-GRAND%20FINALIST-FFD700?style=for-the-badge&logo=google&logoColor=black" alt="Grand Finalist" />
+      <br/><br/>
+      <h3>🥇 Google AdMob Hackathon @ IIT Bombay</h3>
+      <p>Selected as a <b>Grand Finalist</b> among thousands of competitive engineers at the prestigious IIT Bombay hackathon for architecting high-impact monetization & digital experiences.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/FOUNDER-DOCUMENT%20AI-00F5D4?style=for-the-badge&logo=openai&logoColor=black" alt="Safeoid" />
+      <br/><br/>
+      <h3>🚀 Founder & Lead Architect — Safeoid</h3>
+      <p>Engineered a zero-template AI document extraction engine turning unstructured PDFs and invoices into structured data with zero manual entry tax.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/INNOVATION-LOCAL%20SPEECH-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WhisperType" />
+      <br/><br/>
+      <h3>🧠 Creator — WhisperType V3</h3>
+      <p>Developed a 100% free and local voice-to-text Chrome extension operating with <b>zero API token cost</b> and instant 150+ WPM typing in any web input.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PRODUCTIVITY-AI%20WRITING-FF0080?style=for-the-badge&logo=lightning&logoColor=white" alt="Voca AI" />
+      <br/><br/>
+      <h3>✍️ Founder & Builder — Voca AI</h3>
+      <p>Designed a browser-based AI productivity copilot improving grammar, rewriting tone, and polishing prose in real-time for digital creators.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/STREAMING-ZERO%20BANDWIDTH-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="ReelSnap" />
+      <br/><br/>
+      <h3>🎬 Creator — ReelSnap Media Suite</h3>
+      <p>Shipped a viral 1080p Instagram & Facebook downloader with Web Audio 320kbps MP3 extraction that processes 100% in-browser with zero server hosting load.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/DISTRIBUTION-CREATOR%20ECONOMY-7928CA?style=for-the-badge&logo=tiktok&logoColor=white" alt="Captr" />
+      <br/><br/>
+      <h3>📊 Founder — Captr Clipping Network</h3>
+      <p>Pioneered an automated content distribution infrastructure connecting brands and creators with independent short-form clippers.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ The Product Workflow
+## 🛠️ The Product Workflow (Engineering Pipeline)
 
-```text
-┌───────────────┐
-│     IDEA      │ ➔ Identify real-world friction point
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    RESEARCH   │ ➔ Benchmark existing tools & architecture
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    DESIGN     │ ➔ Craft Apple-inspired, minimalist UX/UI
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│     BUILD     │ ➔ Write clean, scalable, modular code
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│     TEST      │ ➔ Edge-case stress testing & Core Web Vitals
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│     SHIP      │ ➔ Deploy to live production with zero friction
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   ITERATE     │ ➔ Listen to user feedback & continuously refine
-└───────────────┘
-```
+<table width="100%">
+  <tr>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2001-IDEA-FF0080?style=for-the-badge" alt="Idea" />
+      <br/><br/>
+      <h4>💡 01. Problem</h4>
+      <p>Spot acute friction points and user pain in existing digital workflows.</p>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2002-RESEARCH-7928CA?style=for-the-badge" alt="Research" />
+      <br/><br/>
+      <h4>🔍 02. Audit</h4>
+      <p>Deconstruct competitor limitations and define zero-bloat architecture.</p>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2003-DESIGN-0070F3?style=for-the-badge" alt="Design" />
+      <br/><br/>
+      <h4>🎨 03. Design</h4>
+      <p>Craft Apple-inspired minimalism with rapid micro-interactions.</p>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2004-BUILD-00F5D4?style=for-the-badge&logoColor=black" alt="Build" />
+      <br/><br/>
+      <h4>⚡ 04. Engineer</h4>
+      <p>Develop modular, clean codebases using React, Next.js, and Python AI.</p>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2005-SHIP-00DF72?style=for-the-badge&logoColor=black" alt="Ship" />
+      <br/><br/>
+      <h4>🚀 05. Deploy</h4>
+      <p>Ship to global production edge with 100/100 Lighthouse performance.</p>
+    </td>
+    <td align="center" width="16%" valign="top">
+      <img src="https://img.shields.io/badge/STAGE%2006-SCALE-FFD700?style=for-the-badge&logoColor=black" alt="Iterate" />
+      <br/><br/>
+      <h4>🔄 06. Iterate</h4>
+      <p>Listen directly to user behavior and push continuous live improvements.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <br/>
   <blockquote>
     <b>"Build something people can use."</b><br/>
-    <i>Less talking. More building.</i>
+    <i>Learn → Build → Break → Fix → Ship → Repeat</i><br/>
+    <b>Less talking. More building.</b>
   </blockquote>
 </div>
 
