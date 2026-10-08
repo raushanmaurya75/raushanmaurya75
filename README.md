@@ -1,771 +1,324 @@
 <div align="center">
 
-# RAUSHAN MAURYA
+  <!-- Header Section -->
+  <h1>RAUSHAN MAURYA</h1>
+  <h3>Builder · Founder · AI Developer</h3>
+  
+  <p>
+    I build products, experiment with AI, and turn ideas into real software.
+  </p>
 
-### Builder · Founder · AI Developer
+  <br/>
 
-<p>
-I build products, experiment with AI, and turn ideas into real software.
-</p>
+  <!-- Social Badges -->
+  <a href="https://github.com/raushanmaurya75" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raushan-maurya1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tivitji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<br>
+  <br/><br/>
 
-<a href="https://github.com/raushanmaurya75">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/raushan-maurya1/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=raushanmaurya75&label=PROFILE%20VIEWS&color=000000&style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ BUILDING WHAT'S NEXT
-
-</div>
-
-> **I don't just learn technology.  
-> I use technology to build things.**
-
-I'm a developer and product builder focused on **AI, SaaS, automation and modern web applications**.
-
-Currently exploring how AI can turn complicated workflows into simple products.
-
-<br>
-
-<div align="center">
-
-`AI` · `SaaS` · `React` · `Next.js` · `Node.js` · `Python` · `Firebase` · `Supabase`
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=raushanmaurya75&label=PROFILE%20VIEWS&color=000000&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-#  What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### ◉ Safeoid
-
-**AI-powered document intelligence**
-
-A zero-template AI engine designed to transform unstructured PDFs and images into structured data.
-
-**Zero Templates.  
-Less Manual Entry.  
-More Automation.**
-
-`AI` `SaaS` `React` `Python`
-
-</td>
-
-<td width="50%">
-
-### ◉ Voca AI
-
-**AI-powered productivity tools**
-
-Building browser-based AI experiences for grammar correction, writing improvement, tone adjustment and productivity.
-
-`AI` `Chrome Extension` `JavaScript`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ◉ Captr
-
-**Content distribution infrastructure**
-
-A clipping network connecting creators, brands and independent content distributors through performance-based campaigns.
-
-`Creator Economy` `Automation` `Analytics`
-
-</td>
-
-<td width="50%">
-
-### ◉ Experimental Lab
-
-**Ideas → prototypes → products**
-
-I continuously experiment with AI apps, automation systems, games, developer tools and consumer products.
-
-`20+ AI Projects` `30+ Websites` `2 Chrome Extensions`
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-# ⚡ My Stack
+  <h2>✦ BUILDING WHAT'S NEXT</h2>
+
+  <blockquote>
+    <b>"I don't just learn technology. I use technology to build things."</b>
+  </blockquote>
+
+  <p>
+    I'm a developer and product builder focused on <b>AI, SaaS, automation, and modern web applications</b>.<br/>
+    Currently exploring how AI can turn complicated workflows into intuitive products.
+  </p>
+
+  <code>AI</code> &nbsp;·&nbsp; <code>SaaS</code> &nbsp;·&nbsp; <code>React</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>Node.js</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>Firebase</code> &nbsp;·&nbsp; <code>Supabase</code>
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="120">
-
-### ⚛️
-**React**
-
-</td>
-<td align="center" width="120">
-
-### ▲
-**Next.js**
-
-</td>
-<td align="center" width="120">
-
-### 🟢
-**Node.js**
-
-</td>
-<td align="center" width="120">
-
-### 🐍
-**Python**
-
-</td>
-<td align="center" width="120">
-
-### ☕
-**Java**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**JavaScript**
-
-</td>
-<td align="center">
-
-**TypeScript**
-
-</td>
-<td align="center">
-
-**SQL**
-
-</td>
-<td align="center">
-
-**Firebase**
-
-</td>
-<td align="center">
-
-**Supabase**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 📊 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=raushanmaurya75&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&rank_icon=github"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanmaurya75&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanmaurya75&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🧠 Currently
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Building        AI products & SaaS                         │
-│                                                             │
-│  Learning        Advanced AI + System Design                │
-│                                                             │
-│  Exploring       AI agents · automation · product design    │
-│                                                             │
-│  Improving       DSA · engineering · product thinking       │
-│                                                             │
-│  Shipping        Real products instead of tutorials         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-<div align="center">
-
-🚀 Numbers
-	
-30+	Websites Built
-20+	AI Applications
-12+	Freelance Solutions
-2	Chrome Extensions
-29	Public Repositories
-200+	GitHub Commits
-100+	LeetCode Problems
-
-
-</div>
-
-🏆 Highlights
-- 🥇 Grand Finalist — Google AdMob Hackathon @ IIT Bombay
-- 🚀 Founder & Lead Developer — Safeoid
-- 🧠 Founder & Builder — Voca AI
-- 🎬 Founder — Captr
-- 💻 Built 30+ websites and products
-- 🤖 Built 20+ AI applications
-- 🧩 100+ LeetCode problems solved
-- 📈 Building products around AI, automation and SaaS
-<div align="center">
-
-🧩 How I Think
-
-IDEA
-↓
-PROTOTYPE
-↓
-BUILD
-↓
-TEST
-↓
-SHIP
-↓
-ITERATE
-
-Less talking. More building.
-</div>
-
-🛠️ Beyond Code
-Product        ████████████████████  100%
-Frontend       ███████████████████   95%
-Backend        ███████████████████   95%
-Problem Solving██████████████████    90%
-AI             ███████████████       75%
-UI / UX        █████████████████     85%
-Product Design █████████████████     85%
-
-<div align="center">
-
-🌐 Find Me
-
-<a href="https://github.com/raushanmaurya75">
-GitHub
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/raushan-maurya1/">
-LinkedIn
-</a>
-
-
-
-
-Building in public.
-© Raushan Maurya
-</div>
-```
-
-One important improvement
-For the iPhone/Apple-style effect, I wouldn't stop at this README. GitHub Markdown has limited animation support, so the best profile would use:
-- Apple-like monochrome typography
-- Minimal black/white cards
-- Animated typing headline
-- Contribution graph
-- Dynamic GitHub statistics
-- Small animated profile elements
-- Project showcase cards
-- Very little emoji
-- No huge "skills cloud"
-- No unnecessary badges everywhere
-I would also change the opening from a normal developer intro to something much more personal-brand/product-builder focused, e.g.:
-RAUSHAN MAURYA
-I build software that turns ideas into products.
-
-That will make your profile feel more like a startup founder's personal website than a generic GitHub profile.
-If you want, I can also create a much more advanced V2 with an actual iOS 26 / Apple Liquid Glass aesthetic, animated typing, glassmorphism project cards, interactive-looking sections, and a much cleaner hero section.
-
-
-
-
-
-
-
-
-
-
-
-
-
-give me whole code at once in code box so i can copy with one click
-
-
-
-
-
-
-
-
-
-
-
-
-Yes — here is the complete README.md in one copyable code block. I’ve also made it more polished and minimalist, with an Apple/iPhone-inspired aesthetic rather than a typical GitHub profile.
-<div align="center">
-
-# RAUSHAN MAURYA
-
-### Founder · Developer · AI Builder
-
-<p>
-Building AI products, SaaS, and digital experiences from idea → prototype → product.
-</p>
 
 <br/>
 
-<a href="https://github.com/raushanmaurya75">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/raushan-maurya1/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<br/><br/>
+## ⚡ What I Build
 
-<img src="https://komarev.com/ghpvc/?username=raushanmaurya75&label=PROFILE%20VIEWS&color=000000&style=flat-square" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ Safeoid</h3>
+      <p><b>AI-Powered Document Intelligence</b></p>
+      <p>A zero-template AI engine designed to transform unstructured PDFs and images into structured data.</p>
+      <p><i>Zero Templates. Less Manual Entry. More Automation.</i></p>
+      <p>
+        <code>AI</code> <code>SaaS</code> <code>React</code> <code>Python</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◉ Voca AI</h3>
+      <p><b>AI-Powered Productivity Tools</b></p>
+      <p>Building browser-based AI experiences for real-time grammar correction, writing improvement, tone adjustment, and workflow acceleration.</p>
+      <p><i>Write cleaner. Communicate faster.</i></p>
+      <p>
+        <code>AI</code> <code>Chrome Extension</code> <code>JavaScript</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ Captr</h3>
+      <p><b>Content Distribution Infrastructure</b></p>
+      <p>A performance-driven clipping and distribution network connecting creators, brands, and independent content syndicators through campaigns.</p>
+      <p><i>Engineered for the modern creator economy.</i></p>
+      <p>
+        <code>Creator Economy</code> <code>Automation</code> <code>Analytics</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◉ Experimental Lab</h3>
+      <p><b>Ideas → Prototypes → Products</b></p>
+      <p>Continuously experimenting with AI agents, automation pipelines, high-speed tools like ReelSnap, developer utilities, and web products.</p>
+      <p><i>Always shipping real code.</i></p>
+      <p>
+        <code>20+ AI Projects</code> <code>30+ Websites</code> <code>2 Extensions</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🛠️ My Stack
+
+<div align="center">
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" width="120">
+        <h3>⚛️</h3>
+        <b>React</b>
+      </td>
+      <td align="center" width="120">
+        <h3>▲</h3>
+        <b>Next.js</b>
+      </td>
+      <td align="center" width="120">
+        <h3>🟢</h3>
+        <b>Node.js</b>
+      </td>
+      <td align="center" width="120">
+        <h3>🐍</h3>
+        <b>Python</b>
+      </td>
+      <td align="center" width="120">
+        <h3>☕</h3>
+        <b>Java</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>JavaScript</b>
+      </td>
+      <td align="center">
+        <b>TypeScript</b>
+      </td>
+      <td align="center">
+        <b>SQL</b>
+      </td>
+      <td align="center">
+        <b>Firebase</b>
+      </td>
+      <td align="center">
+        <b>Supabase</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🧩 Engineering Focus
+
+```text
+Frontend Engineering       ███████████████████░   95%
+Backend Engineering        ███████████████████░   95%
+React / Next.js            ███████████████████░   95%
+Product Development        ███████████████████░   95%
+Problem Solving            ██████████████████░░   90%
+UI / UX Design             █████████████████░░░   85%
+System Design              ████████████████░░░░   80%
+AI / Machine Learning      ███████████████░░░░░   75%
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=raushanmaurya75&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&rank_icon=github" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanmaurya75&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" height="175" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=raushanmaurya75&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushanmaurya75&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🚀 By The Numbers
+
+<div align="center">
+
+| Metric | Experience / Output |
+| :--- | :--- |
+| 🌐 **Websites Built** | **30+** Production Websites |
+| 🤖 **AI Applications** | **20+** Deployed Systems |
+| 💼 **Freelance Solutions** | **12+** Client Implementations |
+| 🧩 **Chrome Extensions** | **2** Published Extensions |
+| 📦 **Public Repositories** | **29+** Open Source Repos |
+| 💻 **GitHub Commits** | **200+** Commits |
+| 🧠 **LeetCode Problems** | **100+** Solved Problems |
+
+</div>
+
+---
+
+## 🏆 Highlights & Accolades
+
+- 🥇 **Grand Finalist** — Google AdMob Hackathon @ IIT Bombay
+- 🚀 **Founder & Lead Developer** — Safeoid *(AI Document Intelligence)*
+- 🧠 **Founder & Builder** — Voca AI *(AI Productivity Tools)*
+- 🎬 **Founder** — Captr *(Content Distribution Platform)*
+- 💻 **30+ Websites & Digital Products** engineered from scratch
+- 🤖 **20+ AI Applications** built and integrated
+- 🧩 **100+ LeetCode Problems** solved with strong DSA intuition
+- 📈 **Product Obsessed** — Focused on AI, SaaS, automation, and real-world utility
+
+---
+
+## 🔬 Currently Exploring
+
+<div align="center">
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" width="160">
+        <h3>🤖</h3>
+        <b>AI Agents</b>
+      </td>
+      <td align="center" width="160">
+        <h3>🧠</h3>
+        <b>Generative AI</b>
+      </td>
+      <td align="center" width="160">
+        <h3>⚙️</h3>
+        <b>Automation</b>
+      </td>
+      <td align="center" width="160">
+        <h3>🚀</h3>
+        <b>SaaS Architecture</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Product Design
+      </td>
+      <td align="center">
+        System Design
+      </td>
+      <td align="center">
+        AI Infrastructure
+      </td>
+      <td align="center">
+        Developer Tooling
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ My Workflow & Philosophy
+
+```text
+┌───────────────┐
+│     IDEA      │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    RESEARCH   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    DESIGN     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│     BUILD     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│     TEST      │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│     SHIP      │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│   ITERATE     │
+└───────────────┘
+```
+
+<div align="center">
+  <blockquote>
+    <b>"Build something people can use."</b><br/>
+    <i>Learn → Build → Break → Fix → Ship → Repeat</i><br/>
+    <b>Less talking. More building.</b>
+  </blockquote>
 </div>
 
 ---
 
 <div align="center">
 
-## ✦ I BUILD PRODUCTS, NOT JUST PROJECTS.
+  <h3>🌎 Let's Connect</h3>
+
+  <a href="https://github.com/raushanmaurya75" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raushan-maurya1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tivitji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+  
+  <i>Building in public. Building the future, one product at a time.</i>
+  
+  <br/><br/>
+  
+  <sub>© Raushan Maurya</sub>
 
-</div>
-
-I'm **Raushan Maurya**, a developer and product builder focused on **AI, SaaS, automation, and modern web applications**.
-
-I enjoy taking an idea, designing the experience, writing the code, integrating AI, and turning it into something people can actually use.
-
-```text
-IDEA  →  DESIGN  →  BUILD  →  TEST  →  SHIP  →  ITERATE
-
-<div align="center">
-
-Less talking. More building.
-</div>
-
- About Me
-<table>
-<tr>
-<td width="50%">
-
-👨‍💻 Developer
-B.Tech Computer Science student with a strong focus on software engineering, AI and product development.
-Currently building with:
-- React
-- Next.js
-- Node.js
-- Python
-- JavaScript / TypeScript
-- Firebase
-- Supabase
-- AI APIs & AI Agents
-</td>
-
-<td width="50%">
-
-🚀 Product Builder
-I don't like building projects just for the sake of having projects.
-I prefer building things that solve actual problems.
-My interests include:
-- AI SaaS
-- Developer tools
-- Automation
-- Consumer apps
-- AI agents
-- Content technology
-- Startup products
-</td>
-</tr>
-</table>
-
-⚡ What I'm Building
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-◉ Safeoid
-AI Document Intelligence
-A zero-template AI engine designed to transform unstructured PDFs and images into structured data.
-The goal is simple:
-Remove the Manual Entry Tax.
-
-Focus
-AI SaaS Document Processing Automation
-</td>
-
-<td width="50%" valign="top">
-
-◉ Voca AI
-AI Productivity
-AI-powered browser experiences focused on improving the way people write and communicate online.
-Features include:
-- Grammar improvement
-- Tone adjustment
-- Writing enhancement
-- Productivity tools
-Focus
-AI Chrome Extension JavaScript
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-◉ Captr
-Content Distribution
-A performance-based content distribution network connecting brands, creators and independent clippers.
-Designed around:
-- Content distribution
-- Performance tracking
-- Creator networks
-- Campaign management
-Focus
-Creator Economy Automation Analytics
-</td>
-
-<td width="50%" valign="top">
-
-◉ Experimental Lab
-Ideas → Products
-A continuously evolving collection of experiments across:
-- AI applications
-- Web applications
-- Games
-- Automation
-- Developer tools
-- Consumer products
-Always building something new.
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-🧠 Technology
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="140">
-
-⚛️
-React
-</td>
-
-<td align="center" width="140">
-
-▲
-Next.js
-</td>
-
-<td align="center" width="140">
-
-🟢
-Node.js
-</td>
-
-<td align="center" width="140">
-
-🐍
-Python
-</td>
-
-<td align="center" width="140">
-
-☕
-Java
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-JavaScript
-</td>
-
-<td align="center">
-
-TypeScript
-</td>
-
-<td align="center">
-
-SQL
-</td>
-
-<td align="center">
-
-Firebase
-</td>
-
-<td align="center">
-
-Supabase
-</td>
-
-</tr>
-</table>
-
-🧩 Engineering Focus
-Frontend Engineering       ███████████████████░   95%
-Backend Engineering        ███████████████████░   95%
-React / Next.js            ███████████████████░   95%
-Problem Solving            ██████████████████░░   90%
-Product Development        ███████████████████░   95%
-UI / UX                    █████████████████░░░   85%
-AI / Machine Learning      ███████████████░░░░░   75%
-System Design              ████████████████░░░░   80%
-
-<div align="center">
-
-📊 GitHub Activity
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=raushanmaurya75&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&rank_icon=github"
-  height="180"
-/>
-
-
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=raushanmaurya75&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000"
-  height="180"
-/>
-</div>
-
-<div align="center">
-
-🌐 Contribution Graph
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=raushanmaurya75&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"
-/>
-</div>
-
-🚀 By The Numbers
-<div align="center">
-
-Metric	Experience
-🌐 Websites Built	30+
-🤖 AI Applications	20+
-💼 Freelance Solutions	12+
-🧩 Chrome Extensions	2
-📦 GitHub Repositories	29
-💻 GitHub Commits	200+
-🧠 LeetCode Problems	100+
-
-
-</div>
-
-🏆 Highlights
-<table>
-<tr>
-<td>
-
-🥇 Grand Finalist — Google AdMob Hackathon @ IIT Bombay
-</td>
-</tr>
-
-<tr>
-<td>
-
-🚀 Founder & Lead Developer — Safeoid
-</td>
-</tr>
-
-<tr>
-<td>
-
-🧠 Founder & Builder — Voca AI
-</td>
-</tr>
-
-<tr>
-<td>
-
-🎬 Founder — Captr
-</td>
-</tr>
-
-<tr>
-<td>
-
-💻 30+ Websites & Digital Products Built
-</td>
-</tr>
-
-<tr>
-<td>
-
-🤖 20+ AI Applications Built
-</td>
-</tr>
-
-<tr>
-<td>
-
-🧩 100+ LeetCode Problems Solved
-</td>
-</tr>
-
-</table>
-
-<div align="center">
-
-🔬 Currently Exploring
-</div>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="200">
-
-🤖
-AI Agents
-</td>
-
-<td align="center" width="200">
-
-🧠
-Generative AI
-</td>
-
-<td align="center" width="200">
-
-⚙️
-Automation
-</td>
-
-<td align="center" width="200">
-
-🚀
-SaaS
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-Product Design
-</td>
-
-<td align="center">
-
-System Design
-</td>
-
-<td align="center">
-
-AI Infrastructure
-</td>
-
-<td align="center">
-
-Developer Tools
-</td>
-
-</tr>
-
-</table>
-
-💭 My Philosophy
-<div align="center">
-
-"Build something people can use."
-
-I believe the best way to learn technology is to build with it.
-
-Learn → Build → Break → Fix → Ship → Repeat
-</div>
-
-🛠️ My Workflow
-                    ┌───────────────┐
-                    │     IDEA      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    RESEARCH   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DESIGN     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     TEST      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     SHIP      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   ITERATE     │
-                    └───────────────┘
-
-<div align="center">
-
-🌎 Let's Connect
-
-<a href="https://github.com/raushanmaurya75">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raushan-maurya1/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
-
-Building the future, one product at a time.
-
-<sub>© 2026 Raushan Maurya</sub>
 </div>
